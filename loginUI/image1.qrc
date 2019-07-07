@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.png</file>
+        <file>mainUI.png</file>
+        <file>schedule.png</file>
+        <file>BG.png</file>
+        <file>BGmain.png</file>
+        <file>BGs.png</file>
+        <file>info.png</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>
